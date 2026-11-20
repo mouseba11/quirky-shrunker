@@ -1,0 +1,31 @@
+{
+  "name": "@mouseba11/quirky-shrunker",
+  "version": "1.0.0",
+  "description": "Shrink a source passage before a draft is written. Local, deterministic, zero dependencies.",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "quirky-shrunker.config.json",
+    "docs",
+    "AGENTS.md",
+    "CHANGELOG.md"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "prompt",
+    "compression",
+    "extractive",
+    "summarise"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mouseba11/quirky-shrunker.git"
+  },
+  "author": "mouseba11",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}

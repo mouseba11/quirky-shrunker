@@ -1,0 +1,8 @@
+{
+  "keep": 0.5,
+  "keepFirst": true,
+  "minSentences": 1,
+  "minChars": 280,
+  "scaleWithWords": true,
+  "wordsAtFull": 256
+}
